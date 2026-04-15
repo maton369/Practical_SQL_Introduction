@@ -1,9 +1,4 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-name	address
-井上	福島県
-佐々木	千葉県
-前田	東京都
-小川	東京都
-松本	千葉県
-林	福島県
-森	東京都
+name	phone_nbr
+井上	NULL
+松本	NULL
