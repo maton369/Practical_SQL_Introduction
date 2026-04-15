@@ -1,4 +1,4 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-sex	COUNT(*)
-女	5
-男	4
+address	COUNT(*)
+三重県	1
+和歌山県	1
