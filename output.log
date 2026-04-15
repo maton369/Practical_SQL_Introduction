@@ -1,4 +1,4 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-name	phone_nbr
-井上	NULL
-松本	NULL
+sex	COUNT(*)
+女	5
+男	4
