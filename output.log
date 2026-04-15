@@ -1,4 +1,8 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
 name	address	age
+井上	福島県	55
+前田	東京都	21
 小川	東京都	30
+林	福島県	32
 森	東京都	45
+鈴木	和歌山県	32
