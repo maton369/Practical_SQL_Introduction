@@ -4,7 +4,7 @@
 # 使い方: ./exec.sh <SQLファイルへのパス>
 # 例:    ./exec.sh db/init/03_select_all_explain.sql
 
-SQL_FILE="${1:-db/chapter02/18_select_address_name_in_subquery.sql}"
+SQL_FILE="${1:-db/chapter02/19_select_address_with_case_district.sql}"
 
 if [ ! -f "$SQL_FILE" ]; then
   echo "SQLファイルが見つかりません: $SQL_FILE" >&2
