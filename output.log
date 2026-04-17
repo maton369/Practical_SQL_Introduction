@@ -1,7 +1,4 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-v_address	cnt
-福島県	2
-千葉県	2
-三重県	1
-東京都	3
-和歌山県	1
+name
+小川
+林
