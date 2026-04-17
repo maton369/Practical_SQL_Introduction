@@ -1,4 +1,11 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-name
-小川
-林
+name	address	district
+井上	福島県	東北
+佐々木	千葉県	関東
+佐藤	三重県	中部
+前田	東京都	関東
+小川	東京都	関東
+松本	千葉県	関東
+林	福島県	東北
+森	東京都	関東
+鈴木	和歌山県	関西
