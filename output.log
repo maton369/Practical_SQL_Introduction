@@ -1,14 +1,11 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-address	COUNT(*) OVER
-    (
-        PARTITION BY address
-    )
-三重県	1
-千葉県	2
-千葉県	2
-和歌山県	1
-東京都	3
-東京都	3
-東京都	3
-福島県	2
-福島県	2
+name	age	rnk
+井上	55	1
+森	45	2
+林	32	3
+鈴木	32	3
+小川	30	5
+佐藤	25	6
+前田	21	7
+松本	20	8
+佐々木	19	9
