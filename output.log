@@ -1,5 +1,14 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-ERROR 1064 (42000) at line 144: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(phone_nbr, age) = ('080-5848-XXXX', 20)
-WHERE
-    
-    name = '佐々木'' at line 14
+item_name	year	price
+カップ	2000	500
+カップ	2001	520
+スプーン	2000	500
+スプーン	2001	500
+ナイフ	2000	600
+ナイフ	2001	550
+カップ	2002	630
+カップ	2003	630
+スプーン	2002	525
+スプーン	2003	525
+ナイフ	2002	577
+ナイフ	2003	420
