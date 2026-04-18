@@ -1,11 +1,2 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-name	age	dense_rnk
-井上	55	1
-森	45	2
-林	32	3
-鈴木	32	3
-小川	30	4
-佐藤	25	5
-前田	21	6
-松本	20	7
-佐々木	19	8
+ERROR 1062 (23000) at line 30: Duplicate entry '前田' for key 'Address.PRIMARY'
