@@ -1,5 +1,4 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-id	data_1	data_2	data_3	data_4	data_5	data_6
-Jim	100	10	167	77	90	457
-Ken	78	5	178	346	85	33
-Beth	75	0	183	NULL	4	12
+product_id
+製品1
+製品2
