@@ -1,4 +1,4 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-product_id
-製品1
-製品2
+room_nbr	working_days
+101	10
+303	14
