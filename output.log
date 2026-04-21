@@ -1,11 +1,1 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-name	age	age_class	age_rank_in_class
-Darwin	12	子供	1
-Adela	21	成人	1
-Dawson	25	成人	2
-Anderson	30	成人	3
-Donald	30	成人	3
-Bill	39	成人	5
-Becky	54	成人	6
-Bates	87	老人	1
-Chris	90	老人	2
