@@ -1,5 +1,5 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-age_class	COUNT(*)
-成人	6
-老人	2
-子供	1
+bmi	COUNT(*)
+標準	4
+肥満	3
+やせ	2
