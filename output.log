@@ -1,8 +1,4 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-pcode	district_name	match_rank
-4103213	静岡県伊豆市青羽根	5
-4130001	静岡県熱海市泉	2
-4130002	静岡県熱海市伊豆山	2
-4130041	静岡県熱海市青葉町	2
-4130103	静岡県熱海市網代	3
-4380824	静岡県磐田市赤池	6
+id	select_type	table	partitions	type	possible_keys	key	key_len	ref	rows	filtered	Extra
+1	PRIMARY	<derived2>	NULL	ALL	NULL	NULL	NULL	NULL	6	100.00	Using where
+2	DERIVED	PostalCode	NULL	ALL	NULL	NULL	NULL	NULL	6	100.00	Using filesort
