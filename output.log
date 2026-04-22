@@ -1,3 +1,3 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-name	pcode	new_pcode
-A	4130001	4130002
+name	pcode
+A	4130001
