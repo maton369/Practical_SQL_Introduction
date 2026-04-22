@@ -1,14 +1,8 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-company	year	sale	pre_company	pre_sale
-A	2002	50	NULL	NULL
-A	2003	52	A	50
-A	2004	55	A	52
-A	2007	55	A	55
-B	2001	27	NULL	NULL
-B	2005	28	B	27
-B	2006	28	B	28
-B	2009	30	B	28
-C	2001	40	NULL	NULL
-C	2005	39	C	40
-C	2006	38	C	39
-C	2010	35	C	38
+pcode	district_name	match_rank
+4103213	静岡県伊豆市青羽根	5
+4130001	静岡県熱海市泉	2
+4130002	静岡県熱海市伊豆山	2
+4130041	静岡県熱海市青葉町	2
+4130103	静岡県熱海市網代	3
+4380824	静岡県磐田市赤池	6
