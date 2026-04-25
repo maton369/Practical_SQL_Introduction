@@ -1,8 +1,9 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
 emp_id	emp_name	dept_id	dept_name
 001	石田	10	総務
-002	小笠原	11	人事
 003	夏目	11	人事
-004	米田	12	開発
-005	釜本	12	開発
+002	小笠原	11	人事
 006	岩瀬	12	開発
+005	釜本	12	開発
+004	米田	12	開発
+NULL	NULL	NULL	営業
