@@ -1,1 +1,6 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
+cust_id	seq	price
+A	1	500
+B	5	100
+C	10	600
+D	3	2000
