@@ -1,1 +1,9 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
+class	student_id	seq
+1	100	1
+1	101	2
+1	102	3
+2	100	4
+2	101	5
+2	102	6
+2	103	7
