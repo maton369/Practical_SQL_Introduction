@@ -1,8 +1,2 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-id	select_type	table	partitions	type	possible_keys	key	key_len	ref	rows	filtered	Extra
-1	PRIMARY	<derived3>	NULL	ALL	NULL	NULL	NULL	NULL	5	100.00	Using where
-1	PRIMARY	R1	NULL	eq_ref	PRIMARY	PRIMARY	8	R2.cust_id,R2.min_seq	1	100.00	NULL
-1	PRIMARY	<derived5>	NULL	ref	<auto_key0>	<auto_key0>	4	R2.cust_id	2	100.00	Using where; Using index
-1	PRIMARY	R3	NULL	eq_ref	PRIMARY	PRIMARY	8	R2.cust_id,R4.min_seq	1	100.00	NULL
-5	DERIVED	Receipts	NULL	range	PRIMARY	PRIMARY	4	NULL	5	100.00	Using index for group-by
-3	DERIVED	Receipts	NULL	range	PRIMARY	PRIMARY	4	NULL	5	100.00	Using index for group-by
+ERROR 1054 (42S22) at line 35: Unknown column 'emp_nbr' in 'field list'
