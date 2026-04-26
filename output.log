@@ -1,9 +1,2 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-class	student_id	seq
-1	100	1
-1	101	2
-1	102	3
-2	100	1
-2	101	2
-2	102	3
-2	103	4
+ERROR 1093 (HY000) at line 35: You can't specify target table 'Weights3' for update in FROM clause
